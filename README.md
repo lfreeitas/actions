@@ -1,11 +1,9 @@
-# Dojo 
+# Coding Dojo 
 
 Dojo é uma reunião em torno de um desafio não competitivo e que junte pessoas com vários níveis de habilidade, para testar novas ideias permitindo o aprendizado contínuo. 
 
 
-
-
-## Objeto:
+## Objetivo:
 Utilizando os comando ad hoc colete as informações de configuração dos servidores.
 
 Ambiente:
@@ -41,3 +39,4 @@ DOC:
 - Pare o serviço spooler
 DOC: https://docs.ansible.com/ansible/latest/collections/ansible/windows/win_service_module.html
 
+:boom:
